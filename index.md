@@ -15,7 +15,6 @@ Taipei, TPE
 ```
 - Major in Medicine
 - Major GPA: __4.0__, Cumulative GPA: __3.97__
-- Vision, Graphics track
 
 
 
