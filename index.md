@@ -6,9 +6,6 @@ pdf: true
 # 聖妮 __更棒棒__
 
 
-<i class="fi-mail" style="margin-left:1em"></i>
-<a href="wn2155@columbia.edu" style="margin-left:0.5em">wn2155@columbia.edu</a>
-</div>
 
 ## Education
 
