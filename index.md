@@ -3,7 +3,7 @@ layout: cv
 title: Nimo's CV
 pdf: true
 ---
-# Sheng-Ni __Chen__
+# 聖妮 __更棒棒__
 
 
 <i class="fi-mail" style="margin-left:1em"></i>
