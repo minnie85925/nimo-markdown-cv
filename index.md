@@ -16,7 +16,7 @@ pdf: true
 
 ### __Columbia University__ `2016.9 - Present`
 ```
-New York, NY
+New York, TPE
 ```
 - B.S. in Computer Science
 - Major GPA: __4.0__, Cumulative GPA: __3.97__
