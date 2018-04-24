@@ -9,7 +9,7 @@ pdf: true
 
 ## Education
 
-### __Columbia University__ `2016.9 - Present`
+### __Taipei Medical University__ `2016.9 - Present`
 ```
 New York, NY
 ```
