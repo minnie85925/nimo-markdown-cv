@@ -5,7 +5,10 @@ pdf: true
 ---
 # Sheng-Ni __Chen__
 
-
+<div id="webaddress">
+<i class="fi-mail" style="margin-left:1em"></i>
+<a href="wn2155@columbia.edu" style="margin-left:0.5em">minnie85925@gmail.com</a>
+</div>
 
 ## Education
 
