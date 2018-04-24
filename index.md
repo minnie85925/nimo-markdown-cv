@@ -3,7 +3,7 @@ layout: cv
 title: Nimo's CV
 pdf: true
 ---
-# 聖妮 __更棒棒__
+# Sheng-Ni __Chen__
 
 
 
@@ -13,17 +13,11 @@ pdf: true
 ```
 Taipei, TPE
 ```
-- B.S. in Computer Science
+- Major in Medicine
 - Major GPA: __4.0__, Cumulative GPA: __3.97__
 - Vision, Graphics track
 
-### __Dickinson College__ `2013.9 - 2016.5`
-```
-Carlisle, PA
-```
-- B.S. in Computer Science
-- Major GPA: __4.0__, Cumulative GPA: __3.93__
-- Computer Science Departmental Honors
+
 
 ## Publications
 
