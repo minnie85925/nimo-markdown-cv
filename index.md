@@ -9,9 +9,9 @@ pdf: true
 
 ## Education
 
-### __Taipei Medical University__ `2016.9 - Present`
+### __Taipei Medical University__ `2015.9 - Present`
 ```
-New York, NY
+Taipei, TPE
 ```
 - B.S. in Computer Science
 - Major GPA: __4.0__, Cumulative GPA: __3.97__
