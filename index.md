@@ -17,22 +17,20 @@ pdf: true
 Taipei, TPE
 ```
 - Major in Medicine
-- Major GPA: __4.0__, Cumulative GPA: __3.97__
+- Overall GPA: __3.98__
 
 
 
 ## Publications
 
-### [__Substance and Style: domain-specific languages for mathematical diagrams__](https://2017.splashcon.org/event/dsldi-2017-substance-and-style-domain-specific-languages-for-mathematical-diagrams)
-__Wode Ni\*__, Katherine Ye\*, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br>  _Domain-Specific Language Design and Implementation (DSLDI 2017),  co-located with SPLASH._ <br>
+### [__Chen’s Double Eyelid Fold Illusion: An Eye Size Assimilation Illusion Induced by a Supratarsal Fold in the Brow–Eye Unit, A Preliminary Report__](https://www.semanticscholar.org/paper/Chen’s-Double-Eyelid-Fold-Illusion%3A-An-Eye-Size-by-Chen-Chen/98d438dff383e8d70a2e0908f919eb675ce245e5)
+__Sheng-Ni, Chen\*__, Sheng-Hung Chen\*, Chen-Chia Chen, Chien-Lin Huang, and Hao-Chih Tai.<br>  
 [[PDF](assets/dsldi.pdf)]
 [[slides](assets/dsldi-presentation.pdf)]
 [[www](http://penrose.ink)]
 [[repo](https://github.com/penrose/penrose)]
 
-### [__Whiteboard Scanning Using Super-Resolution__](http://scholar.dickinson.edu/student_honors/221/)
-__Wode Ni__.<br> _Dickinson College Honors Theses. Paper 221._<br>
-[[PDF](assets/superres.pdf)]
+
 
 ## Experience
 
