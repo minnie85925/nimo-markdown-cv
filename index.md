@@ -14,7 +14,7 @@ pdf: true
 
 ### __Taipei Medical University__ `2015.9 - Present`
 ```
-Taipei, TPE
+Taipei, Taiwan
 ```
 - Major in Medicine
 - Overall GPA: __3.98__
@@ -29,8 +29,8 @@ __Sheng-Ni, Chen\*__, Sheng-Hung Chen\*, Chen-Chia Chen, Chien-Lin Huang, and Ha
 ## Experience
 
 ### __Genomics Research Center of Academia Sinica, Research Experiences  for Undergraduate__  `2015.7 - 2015.8`
-_Internship_<br>
-__TDP-43__ is a system that automatically visualizes mathematics. 
+_Summer Internship Program_<br>
+__TDP-43__ is a novel inclusion found in a subtype of _frontotemporal lobar dementia_(FTLD-U), _amyotrophic lateral sclerosis_(ALS), and _Alzheimer's Disease_. During my internship, I was under adjunct associate professor Chen Yun-Ru's lab and focused on analyzing the phenoenon of cross-linking between TDP-43 proteins via SDS-PAGE and Western Blot. I'd won the __most promising award__ during presentation competition of internship.
 
 ### __Asian Medical Students Conference__ `2017.7`
 _Participant_<br>
@@ -38,11 +38,11 @@ Worked with prof. Steven Feiner, on __Cyber Affordance Visualization in Augument
 
 ### __Secretary Department of Taipei Medical University Medical Student Association__ `2017.7 - 2018.6`
 _Director_<br>
-Worked on server-side web applications and server deployment tools.
+Worked on 
 
 ### __Green Cross Health Service Association__ `2017.7`
 _Participant_<br>
-Worked with prof. Steven Feiner,
+Worked on
 
 ### __High School Alumni Association__ `2016.9 - 2017.6`
 _Director_<br>
