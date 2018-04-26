@@ -34,7 +34,7 @@ __TDP-43__ is a novel inclusion found in a subtype of _frontotemporal lobar deme
 
 ### __Asian Medical Students Conference__ `2017.7`
 _Participant_<br>
-Worked with prof. Steven Feiner, on __Cyber Affordance Visualization in Augumented Reality__ project. Developed a Microsoft Hololens application that visualizes the Columbia campus in AR environment.
+Under the theme "Hospital, no longer a safe area",s
 
 ### __Secretary Department of Taipei Medical University Medical Student Association__ `2017.7 - 2018.6`
 _Director_<br>
@@ -57,7 +57,9 @@ _Team Manager_<br>
 Worked with prof. Steven Feiner,
 
 
+## Honors & Awards
 
+Minor merit, Chanmpion of President Cup Slow Pitch Softball Championships `2017` <br>
 
 
 <!-- ### Footer
