@@ -20,6 +20,7 @@ Taipei, Taiwan
 - Overall GPA: __3.98__
 
 
+
 ## Publications
 
 ### [__Chen’s Double Eyelid Fold Illusion: An Eye Size Assimilation Illusion Induced by a Supratarsal Fold in the Brow–Eye Unit, A Preliminary Report__](https://www.semanticscholar.org/paper/Chen’s-Double-Eyelid-Fold-Illusion%3A-An-Eye-Size-by-Chen-Chen/98d438dff383e8d70a2e0908f919eb675ce245e5)
@@ -55,6 +56,7 @@ Organized campus musical events and being part of performers
 ### __University Varsity Softball Team__ `2015.9 - 2018.6`
 _Team Manager_<br>
 Assisted varsirty softball team by recording players performance and in charge of administrative affairs
+
 
 
 ## Honors & Awards
