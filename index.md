@@ -34,27 +34,27 @@ __TDP-43__ is a novel inclusion found in a subtype of _frontotemporal lobar deme
 
 ### __Asian Medical Students Conference__ `2017.7`
 _Participant_<br>
-Under the theme "Hospital, no longer a safe area",s
+Under the theme "Hospital, no longer a safe area", students from all over Asia gather and discuss accidents in medical field in Seoul, South Korea.
 
 ### __Secretary Department of Taipei Medical University Medical Student Association__ `2017.7 - 2018.6`
 _Director_<br>
-Worked on 
+Worked for maintaining all departments information, eg: record, implementation proposals, and project reports. 
 
 ### __Green Cross Health Service Association__ `2017.7`
-_Participant_<br>
-Worked on
+_Fundraiser and Participant_<br>
+Worked with 110 students to do health voluntary work in rural regions which lack medical supplies in Taiwan. Work contents includes home visiting of the village, setting up free medical clinic for local residents, and preparing health education activities for primary students.
 
 ### __High School Alumni Association__ `2016.9 - 2017.6`
 _Director_<br>
-Worked with prof. Steven Feiner,
+Leaded all personnel to achieve the goal of gathering all high school members by holding activities and providing college information to high school students
 
 ### __Guitar Club__ `2016.9 - 2017.6`
 _Event General Coordinator_<br>
-Worked with prof. Steven Feiner,
+Organized campus musical events and being part of performers
 
 ### __University Varsity Softball Team__ `2015.9 - 2018.6`
 _Team Manager_<br>
-Worked with prof. Steven Feiner,
+Assisted varsirty softball team by recording players performance and in charge of administrative affairs
 
 
 ## Honors & Awards
