@@ -24,7 +24,7 @@ Taipei, Taiwan
 ## Publications
 
 ### [__Chen’s Double Eyelid Fold Illusion: An Eye Size Assimilation Illusion Induced by a Supratarsal Fold in the Brow–Eye Unit, A Preliminary Report__](https://www.semanticscholar.org/paper/Chen’s-Double-Eyelid-Fold-Illusion%3A-An-Eye-Size-by-Chen-Chen/98d438dff383e8d70a2e0908f919eb675ce245e5)
-__Sheng-Ni, Chen\*__, Sheng-Hung Chen\*, Chen-Chia Chen, Chien-Lin Huang, and Hao-Chih Tai.<br>  _Aesth Plast Surg (2017) 41:1375–1381(DOI 10.1007/s00266-017-0961-5)_ <br>
+__Sheng-Ni, Chen\*__, Sheng-Hung Chen\*, Chen-Chia Chen, Chien-Lin Huang, and Hao-Chih Tai.<br>_Aesth Plast Surg (2017) 41:1375–1381(DOI 10.1007/s00266-017-0961-5)_ <br>
 
 
 ## Experience
