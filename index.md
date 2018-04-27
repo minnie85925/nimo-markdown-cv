@@ -30,32 +30,32 @@ __Sheng-Ni, Chen\*__, Sheng-Hung Chen\*, Chen-Chia Chen, Chien-Lin Huang, and Ha
 ## Activities
 
 ### __1. Genomics Research Center of Academia Sinica, Research Experiences  for Undergraduate__  `2015.7 - 2015.8`
-_Summer Internship Program_<br>
-Participate in the study of __TDP-43__ inclusion, found in _frontotemporal lobar dementia_(FTLD-U), _amyotrophic lateral sclerosis_(ALS), and _Alzheimer's Disease_.
+   _Summer Internship Program_<br>
+   Participate in the study of __TDP-43__ inclusion, found in _frontotemporal lobar dementia_(FTLD-U), _amyotrophic lateral sclerosis_(ALS), and _Alzheimer's Disease_.
 
 ### __2. Asian Medical Students Conference, Seoul, Korea__ `2017.7`
-_General Delegate of Taiwan_<br>
+   _General Delegate of Taiwan_<br>
 
 ### __3. Secretary Department of Medical Student Association of Taipei Medical University__ `2017.7 - 2018.6`
-_Director_<br>
+   _Director_<br>
  
 ### __4. SCOPE (Standing Committee on Professional Exchange) of Taipei Medical University__ `2017.8`
-_Delegate and Contact person of International Affairs Committee_<br>
+   _Delegate and Contact person of International Affairs Committee_<br>
 
 ### __5. AMSEP (Asian Medical Students' Exchange Program) of Taipei Medical University__ `2016.8`
-_Delegate and Contact person of International Affairs Committee_<br>
+   _Delegate and Contact person of International Affairs Committee_<br>
 
 ### __6. Green Cross Health Service Association of Taipei Medical University__ `2017.7 and 2018.2`
-_Fundraiser and team leader_ for community medical services in remote areas of Taiwan<br>
+   _Fundraiser and team leader_ for community medical services in remote areas of Taiwan<br>
 
 ### __7. Secondary High School Alumni Association__ `2016.9 - 2017.6`
-_Director_<br>
+   _Director_<br>
 
 ### __8. Guitar Club__ `2016.9 - 2017.6`
-_Event General Coordinator_<br>
+   _Event General Coordinator_<br>
 
 ### __9. University Varsity Softball Team__ `2015.9 - 2018.6`
-_Team Manager_<br>
+   _Team Manager_<br>
 
 
 
