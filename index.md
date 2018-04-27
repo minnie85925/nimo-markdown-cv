@@ -77,11 +77,11 @@ _Team Manager_<br>
 
 ## Awards
 
-1. Most Promising Award, Genomics Research Center of Academia Sinica `2015.8` <br>
-2. Volunteer Appreciate Certificate, remote community medical service `2017.7 and 2018.2` <br>
-3. Minor Merit, Champion of President Cup Slow Pitch Softball Championships `2017` <br>
-4. Award for contribution of SCOPE `2017.8` <br>
-5. Award for contribution of AMSEP `2016.8` <br>
+###1. Most Promising Award, Genomics Research Center of Academia Sinica `2015.8` <br>
+###2. Volunteer Appreciate Certificate, remote community medical service `2017.7 and 2018.2` <br>
+###3. Minor Merit, Champion of President Cup Slow Pitch Softball Championships `2017` <br>
+###4. Award for contribution of SCOPE `2017.8` <br>
+###5. Award for contribution of AMSEP `2016.8` <br>
 
 <!-- ### Footer
 
