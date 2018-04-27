@@ -67,7 +67,6 @@ _Team Manager_<br>
 
 
 
-
 ## Awards
 
 1. Most Promising Award, Genomics Research Center of Academia Sinica `2015.8` <br>
