@@ -16,7 +16,7 @@ pdf: true
 ```
 Taipei, Taiwan
 ```
-- Major in Medicine
+- Major in Medicine, third year undergraduate 
 - Overall GPA: __3.98__
 
 
@@ -27,41 +27,43 @@ Taipei, Taiwan
 __Sheng-Ni, Chen\*__, Sheng-Hung Chen\*, Chen-Chia Chen, Chien-Lin Huang, and Hao-Chih Tai.<br>_Aesth Plast Surg (2017) 41:1375–1381(DOI 10.1007/s00266-017-0961-5)_ <br>
 
 
-## Experience
+## Activities
 
-### __Genomics Research Center of Academia Sinica, Research Experiences  for Undergraduate__  `2015.7 - 2015.8`
+### __1. Genomics Research Center of Academia Sinica, Research Experiences  for Undergraduate__  `2015.7 - 2015.8`
 _Summer Internship Program_<br>
-__TDP-43__ is a novel inclusion found in a subtype of _frontotemporal lobar dementia_(FTLD-U), _amyotrophic lateral sclerosis_(ALS), and _Alzheimer's Disease_. During my internship, I was under adjunct associate professor Chen Yun-Ru's lab and focused on analyzing the phenoenon of cross-linking between TDP-43 proteins via SDS-PAGE and Western Blot. I'd won the __most promising award__ during presentation competition of internship.
+Participate in the study of __TDP-43__ inclusion, found in _frontotemporal lobar dementia_(FTLD-U), _amyotrophic lateral sclerosis_(ALS), and _Alzheimer's Disease_.
 
-### __Asian Medical Students Conference__ `2017.7`
-_Participant_<br>
-Under the theme "Hospital, no longer a safe area", students from all over Asia gather and discuss accidents in medical field in Seoul, South Korea.
+### __2. Asian Medical Students Conference, Seoul, Korea__ `2017.7`
+_General Delegate of Taiwan_<br>
 
-### __Secretary Department of Taipei Medical University Medical Student Association__ `2017.7 - 2018.6`
+### __3. Secretary Department of Medical Student Association of Taipei Medical University__ `2017.7 - 2018.6`
 _Director_<br>
-Worked for maintaining all departments information, eg: record, implementation proposals, and project reports. 
+ 
+### __4. SCOPE (Standing Committee on Professional Exchange) of Taipei Medical University__ `2017.8`
+_Delegate and Contact person of International Affairs Committee_<br>
 
-### __Green Cross Health Service Association__ `2017.7`
-_Fundraiser and Participant_<br>
-Worked with 110 students to do health voluntary work in rural regions which lack medical supplies in Taiwan. Work contents includes home visiting of the village, setting up free medical clinic for local residents, and preparing health education activities for primary students.
+### __5. AMSEP (Asian Medical Students' Exchange Program) of Taipei Medical University__ `2016.8`
+_Delegate and Contact person of International Affairs Committee_<br>
 
-### __High School Alumni Association__ `2016.9 - 2017.6`
+### __6. Green Cross Health Service Association of Taipei Medical University__ `2017.7 and 2018.2`
+_Fundraiser and team leader_ for community medical services in remote areas of Taiwan<br>
+
+### __7. Secondary High School Alumni Association__ `2016.9 - 2017.6`
 _Director_<br>
-Leaded all personnel to achieve the goal of gathering all high school members by holding activities and providing college information to high school students
 
-### __Guitar Club__ `2016.9 - 2017.6`
+### __8. Guitar Club__ `2016.9 - 2017.6`
 _Event General Coordinator_<br>
-Organized campus musical events and being part of performers
 
-### __University Varsity Softball Team__ `2015.9 - 2018.6`
+### __9. University Varsity Softball Team__ `2015.9 - 2018.6`
 _Team Manager_<br>
-Assisted varsirty softball team by recording players performance and in charge of administrative affairs
 
 
 
 ## Honors & Awards
 
-Minor merit, Chanmpion of President Cup Slow Pitch Softball Championships `2017` <br>
+1. Most Promising Award, Genomics Research Center of Academia Sinica `2015.8` <br>
+2. Volunteer Appreciate Certificate, remote community medical service `2017.7 and 2018.2` <br>
+3. Minor Merit, Champion of President Cup Slow Pitch Softball Championships `2017` <br>
 
 
 <!-- ### Footer
