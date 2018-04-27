@@ -10,6 +10,17 @@ pdf: true
 <a href="wn2155@columbia.edu" style="margin-left:0.5em">minnie85925@gmail.com</a>
 </div>
 
+## Personal Profile
+__Age__: 21
+__Gender__: Female
+__Nationality__: Taiwan
+__Address__: 12F, No.2, Sec. 4, ZhongXiao E. Rd., Taipei, Taiwan
+__Telephone__: (+886)2-27314008
+__Mobile__: (+886)908874758
+__Email Address__: minnie85925@gmail.com
+
+
+
 ## Education
 
 ### __Taipei Medical University__ `2015.9 - Present`
