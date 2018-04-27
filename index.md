@@ -11,9 +11,9 @@ pdf: true
 </div>
 
 ## Personal Profile
-__Age__: 21     __Gender__: Female     __Nationality__: Taiwan <br>
+__Age__: 21          __Gender__: Female          __Nationality__: Taiwan <br>
 __Address__: 12F, No.2, Sec. 4, ZhongXiao E. Rd., Taipei, Taiwan <br>
-__Telephone__: (+886)2-27314008     __Mobile__: (+886)908874758 <br>
+__Telephone__: (+886)2-27314008          __Mobile__: (+886)908874758 <br>
 __Email Address__: minnie85925@gmail.com <br>
 
 
